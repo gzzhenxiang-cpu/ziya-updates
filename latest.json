@@ -1,0 +1,9 @@
+{
+  "version_name": "1.2.0",
+  "version_code": 6005,
+  "min_supported_version_code": 6000,
+  "force_update": false,
+  "download_url": "https://github.com/gzzhenxiang-cpu/ziya/releases/download/v1.2.0/ziya-arm64-1.2.0.apk",
+  "release_notes": "🎉 新功能\n· 学习历程：查看首次学习日、累计天数、缺勤、最长连续\n· 自动更新：以后新版本会主动提示下载\n· 累计缺勤只统计到昨天，避免今天早晚看不一致\n· 每次升级后自动展示本次变更\n\n🔧 优化\n· 月报数字修复 + 双模式切换\n· 易错字判定更精确\n· 字典可修正拼音 / 词组\n· L5 单独用金色奖杯展示\n· 故事屋 LLM 忙时自动重试",
+  "published_at": "2026-07-02T22:50:00Z"
+}
