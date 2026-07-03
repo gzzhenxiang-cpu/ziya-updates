@@ -1,6 +1,6 @@
 {
-  "version_name": "1.2.0",
-  "version_code": 6005,
+  "version_name": "1.2.1",
+  "version_code": 8006,
   "min_supported_version_code": 6000,
   "force_update": false,
   "download_url": "https://github.com/gzzhenxiang-cpu/ziya/releases/download/v1.2.0/ziya-arm64-1.2.0.apk",
