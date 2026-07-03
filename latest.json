@@ -3,7 +3,7 @@
   "version_code": 8006,
   "min_supported_version_name": "",
   "force_update": false,
-  "download_url": "https://github.com/gzzhenxiang-cpu/ziya/releases/download/untagged-b1bacea05bae259581e4/ziya-arm64-1.2.1.apk",
+  "download_url": "https://github.com/gzzhenxiang-cpu/ziya/releases/download/v1.2.1/ziya-arm64-1.2.1.apk",
   "release_notes": "🔧 优化\n· 易错字口径修正：新字第一次不认识不再立刻出榜（学习起点是正常的，宽限一次）\n· 易错字新增判定：被读成过别的字 ≥ 2 次的字自动进榜（不限时窗，硬混淆信号）\n· 自动更新按版本号比对，解决部分设备卡在\"已是最新版\"的问题",
   "published_at": "2026-07-04T00:00:00Z"
 }
